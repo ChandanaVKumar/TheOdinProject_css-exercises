@@ -1,0 +1,20 @@
+.odd-class {
+    background-color: rgba(217,99,121,0.6);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd-class.three {
+    font-size: 24px;
+    
+}
+
+#div-one {
+    color: blue;
+    font-size: 36px;
+}
+
+#div-two {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgba(107, 214, 103, 0.548);
+}
